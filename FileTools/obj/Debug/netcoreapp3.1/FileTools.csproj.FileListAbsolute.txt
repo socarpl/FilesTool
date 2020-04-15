@@ -1,0 +1,11 @@
+D:\Database\Desktop\FileTools\FileTools\obj\Debug\netcoreapp3.1\FileTools.csprojAssemblyReference.cache
+D:\Database\Desktop\FileTools\FileTools\obj\Debug\netcoreapp3.1\FileTools.AssemblyInfoInputs.cache
+D:\Database\Desktop\FileTools\FileTools\obj\Debug\netcoreapp3.1\FileTools.AssemblyInfo.cs
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.exe
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.deps.json
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.runtimeconfig.json
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.runtimeconfig.dev.json
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.dll
+D:\Database\Desktop\FileTools\FileTools\bin\Debug\netcoreapp3.1\FileTools.pdb
+D:\Database\Desktop\FileTools\FileTools\obj\Debug\netcoreapp3.1\FileTools.dll
+D:\Database\Desktop\FileTools\FileTools\obj\Debug\netcoreapp3.1\FileTools.pdb
